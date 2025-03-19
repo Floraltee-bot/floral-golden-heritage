@@ -89,7 +89,7 @@ const galleryImages =[
         id: 5,
         name: "Abiola Adebayo",
         role: "Student",
-        message: "Floral has really help my child come out from her shell",
+        message: "Floral has really help me come out from my shell and be more confident.",
         image: "/image/test_1.jpg",
       },
       
@@ -111,7 +111,7 @@ const galleryImages =[
       
       {
         id: 8,
-        name: "Elijah Joseph",
+        name: "Elijah Grace",
         role: "Student",
         message: "The extracurricular activities are exciting, and I have made great friends!",
         image: "/image/student_1.jpg",
