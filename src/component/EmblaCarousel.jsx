@@ -108,7 +108,7 @@ const EmblaCarousel = (props) => {
           />
         ))}
       </div>
-      <div className="slider-boxes  w-full justify-around">
+      {/* <div className="slider-boxes  w-full justify-around">
         <div className="flex gap-20 bg-emerald-500 justify-around slider-box w-1/4 h-40 text-center items-center rounded-lg hover:bg-amber-100 cursor-pointer">
           <div className="relative text-emerald-700 ml-5">
             <IconFriends width={60} height={60} />
@@ -121,11 +121,7 @@ const EmblaCarousel = (props) => {
               </h1>
             </div>
 
-            {/* <div className="text-left">
-              <Link className="text-slate-200 font-bold" href="">
-                View More
-              </Link>
-            </div> */}
+          
           </div>
         </div>
         <div className="flex gap-10 justify-around slider-box w-1/4 h-40 text-center items-center rounded-lg hover:bg-amber-100 cursor-pointer">
@@ -139,11 +135,7 @@ const EmblaCarousel = (props) => {
               </h1>
             </div>
 
-            {/* <div className="text-left">
-              <Link className="text-slate-200 font-bold" href="">
-                View More
-              </Link>
-            </div> */}
+          
           </div>
         </div>
         <div className="flex gap-10 justify-around slider-box w-1/4 h-40 text-center items-center rounded-lg hover:bg-black cursor-pointer">
@@ -158,21 +150,17 @@ const EmblaCarousel = (props) => {
               </h1>
             </div>
 
-            {/* <div className="text-left">
-              <Link className="text-slate-200 font-bold" href="">
-                View More
-              </Link>
-            </div> */}
+           
           </div>
         </div>
-      </div>
+      </div> */}
       <div className="slider-headerone">
         <h1 className="text-xl text-white md:text5l  font-heading font-extrabold pb-6 pl-32 uppercase">
           Learning Meets Inspiration
         </h1>
         <motion.h1
-          animate={{ rotate: 360 }}
-          transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
+          // animate={{ rotate: 360 }}
+          // transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
           className="text-5xl pl-32 pb-10 font-bold text-white  slider-header"
         >
           A place where education and culture thrive together.

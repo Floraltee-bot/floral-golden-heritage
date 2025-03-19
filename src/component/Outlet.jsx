@@ -186,13 +186,13 @@ const Outlet = () => {
              <Card 
             imageSrc="/image/nursery.jpg"
             title="NURSERY"
-            description="The mode of learning in the Pre-school classes includes sand play, water play, scribbling, colouring, tracing, rhymes, personal, social, and emotional development etc."
+            description="The mode of learning IN NURSERY includes engaging, interactive, and play-based, ensuring young learners develop essential skills in a nurturing environment."
            link="../School"         
             />
              <Card 
             imageSrc="/image/primary.jpg"
             title="PRIMARY"
-            description="The mode of learning in the Pre-school classes includes sand play, water play, scribbling, colouring, tracing, rhymes, personal, social, and emotional development etc."
+            description="In the Primary Section, the mode of learning focuses on developing critical thinking, creativity, and a strong academic foundation while incorporating interactive and technology-driven approaches."
            link="../School"         
             />
         </motion.div>
